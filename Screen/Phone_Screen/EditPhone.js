@@ -64,7 +64,7 @@ const EditPhone = ({ route }) => {
       null,
       onRefresh
     );
-    navigation.navigate("ListContact");
+    navigation.navigate("ListPhone");
   };
 
   useEffect(() => {
